@@ -38,3 +38,8 @@
   <img src="./assets/full_colored_light.png" height="40px" alt="bash" style="vertical-align:top; margin:4px">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshxcode/divyanshxcode/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshxcode/divyanshxcode/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/divyanshxcode/divyanshxcode/output/github-snake.svg" />
+</picture>
