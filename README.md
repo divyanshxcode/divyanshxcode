@@ -18,6 +18,7 @@
   <a href="https://www.linkedin.com/in/divyanshxcode/"><img height="28" src="./assets/linkedin.png"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/divyanshxcode"><img height="28" src="./assets/instagram.png"></a>&nbsp;&nbsp;
   <a href="https://x.com/divyanshxcode"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg"></a>
+  <a href="https://divyanshxcode.vercel.app"><img height="28" src="https://img.icons8.com/fluency/48/globe.png" alt="Portfolio"></a>
 </p>
 
 <p align="center">
@@ -32,6 +33,7 @@
 ### About Me
 
 - 🎓 &nbsp; CS undergrad @ **Delhi Technological University** (Class of 2027)
+- 🤖 &nbsp; Building **AI Agent Orchestration** systems — multi-agent workflows, autonomous agents, and intelligent automation
 - 🔭 &nbsp; Currently building cool stuff with **AI + Web**
 - 🌱 &nbsp; Exploring **DSA**, **System Design** & **Full Stack Dev**
 - 📬 &nbsp; Reach me at **divyanshxcode** across all platforms
@@ -39,12 +41,36 @@
 
 ---
 
+### 🤖 AI Agents & Orchestration
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxcode&theme=radical&hide_border=false" />
+  Designing and building **autonomous multi-agent systems** — orchestrating AI agents for complex workflows, task delegation, and intelligent automation pipelines.
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/robot.png" alt="AI Agents" height="40px" style="vertical-align:top; margin:4px">&nbsp;
+  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" alt="AI" height="40px" style="vertical-align:top; margin:4px">&nbsp;
+  <img src="https://img.icons8.com/fluency/96/automation.png" alt="Automation" height="40px" style="vertical-align:top; margin:4px">&nbsp;
+  <img src="https://img.icons8.com/fluency/96/workflow.png" alt="Workflow" height="40px" style="vertical-align:top; margin:4px">&nbsp;
+  <img src="https://img.icons8.com/fluency/96/bot.png" alt="Bot" height="40px" style="vertical-align:top; margin:4px">
+</p>
+
+<p align="center">
+  <b>Frameworks & Tools:</b> Multi-Agent Orchestration · Autonomous Agent Deployments · Agent Communication Protocols · AI Workflow Automation
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxcode&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshxcode&show_icons=true&theme=radical&hide_border=false&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshxcode&layout=compact&theme=radical&hide_border=false" height="170" />
+</p>
+
+---
 
 ### 🛠️ Languages & Tools
 
@@ -76,6 +102,11 @@
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" height="40px" style="vertical-align:top; margin:4px; border-radius:8px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" height="40px" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="40px" style="vertical-align:top; margin:4px">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Agents-Orchestration-7B2FF7?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48Y2lyY2xlIGN4PSIzMiIgY3k9IjMyIiByPSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjN0IyRkY3IiBzdHJva2Utd2lkdGg9IjMiLz48cGF0aCBkPSJNMTYgMzJsLTE2IDE2aDE2eiIgZmlsbD0iIzdCMkZGNyIvPjxwYXRoIGQ9Ik00OCAzMmwxNi0xNmgtMTZ6IiBmaWxsPSIjN0IyRkY3Ii8+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/Multi--Agent-Automation-00D4AA?style=flat-square" />
 </p>
 
 
