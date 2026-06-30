@@ -37,14 +37,15 @@
 - 🌱 &nbsp; Exploring **DSA**, **System Design** & **Full Stack Dev**
 - 📬 &nbsp; Reach me at **divyanshxcode** across all platforms
 
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshxcode&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=divyanshxcode&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshxcode&show_icons=true&theme=radical&hide_border=false&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshxcode&layout=compact&theme=radical&hide_border=false" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=divyanshxcode&theme=dracula&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=divyanshxcode&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" />
 </p>
 
 ---
